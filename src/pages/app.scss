@@ -1,0 +1,17 @@
+.container {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 28px;
+  a {
+    color: aqua;
+    text-decoration: none;
+  }
+}
+
+.ant-form.login-form {
+  width: 300px;
+  margin: 200px auto;
+  button {
+    width: 100%;
+  }
+}
